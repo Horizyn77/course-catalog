@@ -1,4 +1,4 @@
-function tutorWageCalculator(timesheet, level) {
+function tutorOvertimeWageCalculator(timesheet, level) {
 
     const rate = {
         1: 75,
