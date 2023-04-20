@@ -1,0 +1,15 @@
+nav {
+    /* display flex is used to put the logo and menu items side by side */
+    display: flex;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    flex: 1;
+}
+
+li {
+    flex: 1;
+}
+
