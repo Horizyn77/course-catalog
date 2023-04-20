@@ -19,9 +19,10 @@ li {
 }
 
 main {
-    background-image: url(https://placehold.co/900x500);
+    background-image: url(https://ubiqum.com/assets/uploads/2019/07/coding-bootcamp-amsterdam.jpg);
     width: 100%;
     height: 500px;
+    color: white;
 }
 
 .courses {
